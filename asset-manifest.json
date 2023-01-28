@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/home-page/static/css/main.5f1425dd.css",
+    "main.js": "/home-page/static/js/main.fa62df01.js",
+    "static/js/787.f586153a.chunk.js": "/home-page/static/js/787.f586153a.chunk.js",
+    "static/media/subscribe-bg.png": "/home-page/static/media/subscribe-bg.66bb18fcec635d82553c.png",
+    "static/media/phone-features.png": "/home-page/static/media/phone-features.fdadf84ec3bc2a0d3094.png",
+    "static/media/pharmacy.jpg": "/home-page/static/media/pharmacy.c36764ca239fe87c4559.jpg",
+    "index.html": "/home-page/index.html",
+    "main.5f1425dd.css.map": "/home-page/static/css/main.5f1425dd.css.map",
+    "main.fa62df01.js.map": "/home-page/static/js/main.fa62df01.js.map",
+    "787.f586153a.chunk.js.map": "/home-page/static/js/787.f586153a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f1425dd.css",
+    "static/js/main.fa62df01.js"
+  ]
+}
